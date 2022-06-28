@@ -21,7 +21,7 @@ or
 
 ```
 # install
-git clone https://github.com/Theochem-merida/xjam
+git clone https://github.com/Theochem-merida/xjam.git
 cd xjam
 python3 setup.py install --record files.txt
 
