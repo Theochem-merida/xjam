@@ -41,6 +41,7 @@ The JAM.inp file includes the following variables:
 ```
 -option: INT, type of material (PL, BPL, BU, BBU)
 -num_layers: INT, number of layers to stack
+-poscargen: BOOL, indicates whether POSCARs are generated
 -atom_list: CHAR, list of the chemical symbols of the elements in the material
 -latticep: FLOAT, the lattice constant used to scale all lattice vectors
 -z_vacuum: FLOAT, the vacuum space
@@ -50,7 +51,21 @@ The JAM.inp file includes the following variables:
 
 Running JAM
 ===============
-
 ```
 x.jam
+```
+
+Output Files
+===============
+```
+-JAM.out: The log file includes the computation time for each operation for the n-layer system
+-jamstrings00n.txt: The generic JAM strings for the n-layer system
+-sjamstrings00n.txt: The specific JAM strings for the n-layer system
+-POSCAR files
+```
+
+Notes
+===============
+```
+The program will generate the sjamstring and jamstrings of the multilayers with num_layers = 2 up to the number specified in JAM.inp
 ```
