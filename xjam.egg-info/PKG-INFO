@@ -6,7 +6,6 @@ Home-page: https://github.com/Theochem-merida/xjam
 Author: Jessica Arcudia, Filiberto Ortiz-Chi, Alan Aspuru-Guzik, and Gabriel Merino
 Author-email: fortiz666@gmail.com
 License: None
-Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.5
@@ -68,5 +67,3 @@ Running JAM
 ```
 x.jam
 ```
-
-
