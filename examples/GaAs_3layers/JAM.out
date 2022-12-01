@@ -1,0 +1,24 @@
+JAM log file
+
+##n=2
+Generation of all possible stacks .... TIME = 0.002900 seconds
+Conversion to pseudocanonical forms .. TIME = 0.003287 seconds
+Discrimination of equivalent stacks .. TIME = 0.078649 seconds
+Conversion to JAM format:
+00001) +0+0/+Ga+Ga/-As-As
+.
+.
+00016) +0+0/-Ga-As/+As+Ga
+See all JAM strings at jamstrings002.txt
+
+##n=3
+Generation of all possible stacks .... TIME = 0.005121 seconds
+Conversion to pseudocanonical forms .. TIME = 0.004087 seconds
+Discrimination of equivalent stacks .. TIME = 2.116438 seconds
+Conversion to JAM format:
+00001) +0+0+0/+Ga+Ga+Ga/-As-As-As
+.
+.
+00144) +0-As-Ga/-Ga+0+As/+As+Ga+0
+See all JAM strings at jamstrings003.txt
+

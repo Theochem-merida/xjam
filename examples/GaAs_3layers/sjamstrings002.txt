@@ -1,0 +1,16 @@
++0+0/+Ga+Ga/-As-As
++0+Ga/+Ga-As/-As+0
++0-As/+Ga+Ga/-As+0
++0-As/+Ga+0/-As+Ga
++0+0/+Ga-As/-As+Ga
++0+Ga/+Ga+0/-As-As
++0+As/+Ga+0/-As-Ga
++0+0/+Ga-Ga/-As+As
++0-Ga/+Ga+0/-As+As
++0+As/+Ga-Ga/-As+0
++0+0/+Ga+As/-As-Ga
++0+Ga/-Ga-As/+As+0
++0+Ga/-Ga+0/+As-As
++0+0/-Ga+Ga/+As-As
++0-As/-Ga+Ga/+As+0
++0+0/-Ga-As/+As+Ga
