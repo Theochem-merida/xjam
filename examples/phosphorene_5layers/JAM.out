@@ -1,0 +1,46 @@
+JAM log file
+
+##n=2
+Generation of all possible stacks .... TIME = 0.000529 seconds
+Conversion to pseudocanonical forms .. TIME = 0.000637 seconds
+Discrimination of equivalent stacks .. TIME = 0.005995 seconds
+Conversion to JAM format:
+00001) +0+0/+P+P/-P-P
+.
+.
+00005) +0-P/+P+0/-P+P
+See all JAM strings at jamstrings002.txt
+
+##n=3
+Generation of all possible stacks .... TIME = 0.000440 seconds
+Conversion to pseudocanonical forms .. TIME = 0.000541 seconds
+Discrimination of equivalent stacks .. TIME = 0.045215 seconds
+Conversion to JAM format:
+00001) +0+0+0/+P+P+P/-P-P-P
+.
+.
+00021) +0+P+P/-P-P+0/+P+0-P
+See all JAM strings at jamstrings003.txt
+
+##n=4
+Generation of all possible stacks .... TIME = 0.002581 seconds
+Conversion to pseudocanonical forms .. TIME = 0.002846 seconds
+Discrimination of equivalent stacks .. TIME = 1.180186 seconds
+Conversion to JAM format:
+00001) +0+0+0+0/+P+P+P+P/-P-P-P-P
+.
+.
+00120) +0+P+0-P/-P-P+P+P/+P+0-P+0
+See all JAM strings at jamstrings004.txt
+
+##n=5
+Generation of all possible stacks .... TIME = 0.010867 seconds
+Conversion to pseudocanonical forms .. TIME = 0.009319 seconds
+Discrimination of equivalent stacks .. TIME = 41.701161 seconds
+Conversion to JAM format:
+00001) +0+0+0+0+0/+P+P+P+P+P/-P-P-P-P-P
+.
+.
+00666) +0+0+P+P-P/+P-P-P+0+0/-P+P+0-P+P
+See all JAM strings at jamstrings005.txt
+
