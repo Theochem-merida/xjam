@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/508485230.svg)](https://zenodo.org/badge/latestdoi/508485230)
+
 This program identifies and generates stacking sequences of high-symmetric honeycomb lattice layered materials via the Joining and Arrangement of Multilayers (JAM) notation by mapping a string of characters to the structure of a polytype using only its chemical symbols.
 
 
